@@ -25,10 +25,11 @@ Edit the script submit.sh and replace placeholder values with your specific info
 
 ## Usage
 1. Open the script file submit.sh in a text editor and replace the following placeholders:
-  firstname="prof_firstname"  # Replace with your professor's first name
-  lastname="prof_lastname"    # Replace with your professor's last name
-  classCode="2??"             # Replace with your subject code (e.g., 124, 244, 222)
-  sectionCode="SSS"           # Replace with your section code (e.g., naa, nbb, nra, zaa)
+   ```bash
+   firstname="prof_firstname"  # Replace with your professor's first name
+   lastname="prof_lastname"    # Replace with your professor's last name
+   classCode="2??"             # Replace with your subject code (e.g., 124, 244, 222)
+   sectionCode="SSS"           # Replace with your section code (e.g., naa, nbb, nra, zaa)
 
 2. Run the script:
    ```bash
