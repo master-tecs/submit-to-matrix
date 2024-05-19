@@ -2,6 +2,13 @@
 
 This Bash script automates the submission process for assignments on the Seneca Matrix server. Before running the script, you need to customize it with your professor's information and class details.
 
+#### GitHub Repository Structure
+ 0. ```bash
+    submit-to-matrix/
+    │
+    ├── submit.sh
+    └── README.md
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
