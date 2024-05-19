@@ -31,7 +31,8 @@ Edit the script submit.sh and replace placeholder values with your specific info
   sectionCode="SSS"           # Replace with your section code (e.g., naa, nbb, nra, zaa)
 
 2. Run the script:
-  ./submit.sh <workshop_number> <part_number>
+   ```bash
+   ./submit.sh <workshop_number> <part_number>
 Replace <workshop_number> with the workshop number and <part_number> with the part number.
 
 ## Contributing
